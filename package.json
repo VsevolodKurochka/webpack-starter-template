@@ -1,0 +1,26 @@
+{
+  "name": "webpack-starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "node-static": "^0.7.10",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsevolodKurochka/webpack-starter-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VsevolodKurochka/webpack-starter-template/issues"
+  },
+  "homepage": "https://github.com/VsevolodKurochka/webpack-starter-template#readme"
+}
